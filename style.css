@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: yellow;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    padding-left: 20px;
+}
+
+b{
+    margin-right: 200px;
+    background-color: #B67910;
+    padding: 5px;
+    margin-top:  10px;
+    color: white;
+}
+
+main img {
+    margin-right:20px;
+}
+
+.Perci{
+    background-color:#00B83A;
+}
+
+.Emili{
+    background-color:#000000;
+}
+ 
+.Gordon{
+    background-color:#0A58FF;
+}
+
+footer{
+   background-color:#FF0000;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
