@@ -9,6 +9,11 @@ header {
     padding-left: 20px;
 }
 
+header a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
 b{
     margin-right: 200px;
     background-color: #B67910;
